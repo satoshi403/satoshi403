@@ -94,6 +94,7 @@ Active security researcher on:
 - Bugcrowd
 - Intigriti
 - HackenProof
+- Sherlock
 
 My research follows responsible disclosure practices, program scope, and rules of engagement.
 
