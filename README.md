@@ -95,6 +95,10 @@ Active security researcher on:
 - Intigriti
 - HackenProof
 - Sherlock
+- Cantina
+- Code4arena
+- Cyfrin CodeHawks
+- Inmunefi
 
 My research follows responsible disclosure practices, program scope, and rules of engagement.
 
